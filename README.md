@@ -1,7 +1,7 @@
 # android-ViewContainer
 
 ###Usage 
-create an Custom ViewContainer class for every xml layout file
+create an custom ViewContainer class for every xml layout file
 
 ###Pros
 * static type analyse
