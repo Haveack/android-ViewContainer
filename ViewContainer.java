@@ -1,5 +1,3 @@
-package com.laiqian.print.util;
-
 import java.lang.reflect.Field;
 
 import android.view.View;
